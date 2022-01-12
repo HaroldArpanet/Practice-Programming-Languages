@@ -9,3 +9,9 @@ Be careful to challenge the prohibition against using the else if JavaScript com
 -------------
 example2.js --> In this exercise, we did the same as Exercise 1, but the ban on using the else if JavaScript command was removed.
 -------------
+
+-------------
+example3.js --> In this exercise, we did the same as exercises 1 and 2, but the switch command was used.
+-------------
+
+
