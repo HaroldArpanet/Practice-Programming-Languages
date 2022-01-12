@@ -14,4 +14,10 @@ example2.js --> In this exercise, we did the same as Exercise 1, but the ban on 
 example3.js --> In this exercise, we did the same as exercises 1 and 2, but the switch command was used.
 -------------
 
+-------------
+example4.js --> In this exercise, we used the while to add the numbers 1 to 100 and get the famous result of 5050.
+-------------
+
+
+
 
