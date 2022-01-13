@@ -18,6 +18,6 @@ example3.js --> In this exercise, we did the same as exercises 1 and 2, but the 
 example4.js --> In this exercise, we used the while to add the numbers 1 to 100 and get the famous result of 5050.
 -------------
 
-
-
-
+-------------
+example5.js --> In these exercises, we drew geometric shapes using nested rings.
+-------------
