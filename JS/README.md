@@ -19,5 +19,11 @@ example4.js --> In this exercise, we used the while to add the numbers 1 to 100 
 -------------
 
 -------------
-example5.js --> In these exercises, we drew geometric shapes using nested rings.
+example5.js --> In these exercises, we drew geometric shapes using the while command and nested loops.
 -------------
+
+-------------
+example6.js --> In these exercises, we drew geometric shapes using the for command and nested loops.
+-------------
+
+
