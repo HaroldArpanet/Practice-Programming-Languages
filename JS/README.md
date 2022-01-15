@@ -26,4 +26,8 @@ example5.js --> In these exercises, we drew geometric shapes using the while com
 example6.js --> In these exercises, we drew geometric shapes using the for command and nested loops.
 -------------
 
+-------------
+example7.js --> In this exercise, we wrote code using JavaScript that the user considers a number between 1 and 1000 and the computer with the help of the user to guess this number.
+-------------
+
 
