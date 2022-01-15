@@ -34,4 +34,8 @@ example6.js --> In these exercises, we drew geometric shapes using the for comma
 example7.js --> In this exercise, we wrote code using JavaScript that the user considers a number between 1 and 1000 and the computer with the help of the user to guess this number.
 -------------
 
+-------------
+example8.js --> In this exercise, which is the complete opposite of Exercise 7, the computer considers a number between 1 and 1000, and the user must guess it.
+-------------
+
 
