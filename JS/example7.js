@@ -1,9 +1,11 @@
 var number = Number(prompt("Please enter a number between 1 and 1000 so that your computer can guess: " ))
 if (number > 1000) {
 	alert("I said less than 1000")
+	alert("Reload this Page")
 }
 else if (number < 1) {
 	alert("I said more than 1")
+	alert("Reload this Page")
 }
 else {
 	alert("Your number has been registered")
